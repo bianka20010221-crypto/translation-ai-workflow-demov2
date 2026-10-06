@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30789637/README.md)
 # Translation AI Workflow Demo
 
 A small, API-key-free prototype of an AI-assisted translation-project intake workflow. It is designed as a portfolio example for a localization or translation-services company: it uses fictional projects and linguists only.
@@ -76,6 +75,8 @@ tests/          Standard-library unit tests
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+The repository intentionally contains no generated `__pycache__` files or credentials.
 
 ## Potential next steps
 
